@@ -1,4 +1,4 @@
-👋 Hi ! I'm a digital Project Manager | Minimalist Web Developer ✨ 
+👋 Hi ! I'm a WEB Project Manager | Minimalist Web Developer ✨ 
 💻  Web Developer | 📱 React Enthusiast | 🎨 UI/UX Lover
 
 🚀 **Tech Stack:**  
