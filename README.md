@@ -10,8 +10,6 @@
 - 🎬 [Movieflex](https://github.com/Soukidev/movieflex-react) - A movie app built with React  
 - 📌 [Task Manager](https://github.com/Soukidev/task-manager) - Simple task management app  
 
-# 💫 About Me:
-👋 Hi ! I'm a digital Project Manager | Minimalist Web Developer ✨ <br>💻  Web Developer | 📱 React Enthusiast | 🎨 UI/UX Lover<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Soukidev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
