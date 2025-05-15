@@ -1,5 +1,6 @@
 👋 Hi ! I'm a WEB Project Manager | Minimalist Web Developer ✨ 
 💻  Web Developer | 📱 React Enthusiast | 🎨 UI/UX Lover
+
 💡 Passionate about clean code & minimal design  
 
 📌 **Projects:**  
